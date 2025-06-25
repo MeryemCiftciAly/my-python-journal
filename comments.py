@@ -30,6 +30,6 @@ print(""" Your Learning Path:
 
 print(""" Hi, my name is Meryem.
     I like the following fruits:
-      \tBlueberries
-      \tArmut (Which is pear in Turkish)
-      I'm happt it's Summer sunny days""")
+      \t-Blueberries
+      \t-Armut (Which is pear in Turkish)
+      I'm happy it's Summer sunny days""")
