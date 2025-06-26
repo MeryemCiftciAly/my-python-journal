@@ -46,11 +46,11 @@ You can follow my full learning roadmap, reflections, and progress on my public 
 
 Explore my broader portfolio and other tools I use here:
 
-🌐 [My Data Work Samples (Power BI, SQL, Tableau, Excel)] @ (https://meryemciftcialy.github.io)
+🌐 [My Data Work Samples (Power BI, SQL, Tableau, Excel)] @ (https://meryemciftcialy.github.io/work_sample/)
 
 ## 🙏 Acknowledgments
 
-A special thanks to **Baraa Khatib-Salkini** for creating the roadmap template and inspirational videos that makes you enjoy wanting to learn about data..
+A special thanks to **Baraa Khatib-Salkini** for creating the roadmap template and inspirational videos that makes you enjoy wanting to learn about data.
 
 All About Baraa #NominateBaraa
 
