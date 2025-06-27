@@ -1,3 +1,0 @@
-My name is Maria
-Maria is learning Python
-Maria wants to become Python expert
