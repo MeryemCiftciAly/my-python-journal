@@ -5,6 +5,7 @@ print("My name is", name)
 print(name, "is learning", language)
 print(name, "wants to become",language, "expert")
 
+print()
 name = "Reyhan"
 language = "English"
 print("My name is", name)
