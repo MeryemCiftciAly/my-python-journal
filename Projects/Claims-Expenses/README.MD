@@ -1,7 +1,7 @@
 # Expense Claims Automation with Python
 
 ## Objective
-This project demonstrates how a very common office workflow — handling time and expense claims — can be **automated with Python**.  
+This project demonstrates how a very common office workflow handling time and expense claims can be **automated with Python**.  
 
 The idea is simple: instead of manually cleaning, categorizing, and preparing spreadsheets, you can drop in any expense file (`.xlsx` or `.csv`) and let Python handle the repetitive tasks.  
 
