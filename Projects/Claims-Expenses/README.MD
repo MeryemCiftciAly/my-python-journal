@@ -3,7 +3,7 @@
 ## Objective
 This project demonstrates how a very common office workflow handling time and expense claims can be **automated with Python**.  
 
-The idea is simple: instead of manually cleaning, categorizing, and preparing spreadsheets, you can drop in any expense file (`.xlsx` or `.csv`) and let Python handle the repetitive tasks.  
+The idea is simple: instead of manually cleaning, categorizing, and preparing spreadsheets, you can drop in any expense file (.xlsx or .csv) and let Python handle the repetitive tasks.  
 
 For this particular dataset:
 - The data was already mostly clean, with only **missing items** to handle.
@@ -47,10 +47,10 @@ If you’d like to experiment, simply create a copy in your own Google Drive:
 ---
 
 ## Repository Contents
-- `scripts/clean_expenses.py` → Python script version of the workflow  
-- `requirements.txt` → Python dependencies  
-- `data/` → (optional) sample dataset for reference  
-- `README.md` → Project overview (this file)  
+- scripts/clean_expenses.py → Python script version of the workflow  
+- requirements.txt → Python dependencies  
+- data/ → (optional) sample dataset for reference  
+- README.md → Project overview (this file)  
 
 ---
 
