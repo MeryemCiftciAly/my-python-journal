@@ -49,7 +49,7 @@ If you’d like to experiment, simply create a copy in your own Google Drive:
 ## Repository Contents
 - scripts/clean_expenses.py → Python script version of the workflow  
 - requirements.txt → Python dependencies  
-- data/ → (optional) sample dataset for reference  
+- data/ → dataset for reference  
 - README.md → Project overview (this file)  
 
 ---
