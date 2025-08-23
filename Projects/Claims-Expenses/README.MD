@@ -20,7 +20,7 @@ For this particular dataset:
    - By **currency**  
    - By **amount**  
 4. **Output** → A single automated Excel workbook with **three tabs**:  
-   - Tab 1: Cleaned Expenses  
+   - Tab 1: Aggregated/Categorized Expenses    
    - Tab 2: Aggregated/Categorized Expenses  
    - Tab 3: Structured view **similar to a PivotTable layout** for further insights  
 
@@ -49,7 +49,7 @@ If you’d like to experiment, simply create a copy in your own Google Drive:
 ## Repository Contents
 - scripts/clean_expenses.py → Python script version of the workflow  
 - requirements.txt → Python dependencies  
-- data/ → dataset for reference  
+- data → dataset for reference  
 - README.md → Project overview (this file)  
 
 ---
