@@ -29,7 +29,7 @@ Explore the automated workflow in action. You can run this demo in Google Colab 
    - Tab 2: Aggregated/Categorized Expenses  
    - Tab 3: Structured view **similar to a PivotTable layout** for further insights  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aqRNsm6KMZVxQ07LoNU97_tDhksFIriX?usp=sharing&utm_source=chatgpt.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gIoxBPE4ORHgIyXiVjoXPe16g6LajgBU)
 
 ---
 
