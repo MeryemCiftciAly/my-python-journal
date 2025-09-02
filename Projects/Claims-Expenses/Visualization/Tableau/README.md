@@ -1,4 +1,4 @@
-# Expense Claims Visualization – Step 2
+# Expense Claims Visualization – Step 2 Tableau Dashboard
 
 ## Introduction
 
