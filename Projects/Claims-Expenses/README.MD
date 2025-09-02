@@ -37,7 +37,7 @@ Explore the automated workflow in action. You can run this demo in Google Colab 
 Once the Python workflow has generated the structured spreadsheets, you can visualize and explore the data in Tableau.  
 
 - **Tableau Dashboard README & User Guide / Guided Analysis**  
-  [Link to Tableau README & Dashboard Guide]()
+  [Link to Tableau README & Dashboard Guide](https://github.com/MeryemCiftciAly/my-python-journal/blob/main/Projects/Claims-Expenses/Visualization/Tableau/README.md)
 
 ---
 
