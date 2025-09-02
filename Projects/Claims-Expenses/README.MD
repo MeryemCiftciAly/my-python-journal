@@ -1,4 +1,4 @@
-# Expense Claims Automation with Python Step 1 Python and Google Colab
+# Expense Claims Automation - Step 1 Python and Google Colab
 
 ## Objective
 This project demonstrates how a very common office workflow handling time and expense claims can be **automated with Python**.  
