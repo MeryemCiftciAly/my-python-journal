@@ -4,7 +4,7 @@
 
 This is **Step 2** of a larger expense claims project.  
 
-- **Step 1** involved using **Python in Google Colab** to automate the preparation, cleaning, and categorization of an expense claims CSV file. The workflow generated structured reports based on business requirements, such as category, currency, amount, and status.  
+- **Step 1** involved using **Python in Google Colab** to automate the preparation, cleaning, and categorization of an expense claims CSV file. You can view **[Step 1: Expense Claims Automation with Python](https://github.com/MeryemCiftciAly/my-python-journal/blob/main/Projects/Claims-Expenses/README.MD)** to explore the workflow and access the interactive Google Colab demo.  
 
 - **Step 2**, this step, focuses on **visualizing the prepared expense claims data in Tableau**. The goal of the dashboard is to give stakeholders a clear view of where the organization may be overspending across different categories, currencies, and approvers.  
 
@@ -39,6 +39,16 @@ After reviewing this dashboard:
 1. Stakeholders can explore **interactive trends** and make informed decisions.
 2. Analysts can refer to the **Dashboard Guide & Guided Analysis** for **how-to-use instructions** and a breakdown of insights.
 3. This workflow forms a **repeatable process** for ongoing expense tracking and reporting.
+
+---
+
+## Project Links / Navigation
+
+| Step | Description | Link |
+|------|-------------|------|
+| Step 1 | Expense Claims Automation with Python (Google Colab demo) | [Step 1 README & Colab](link-to-step-1-readme) |
+| Step 2 | Tableau Dashboard – Expense Claims Visualization | Current Repository / README |
+| Step 2a | Tableau Dashboard Guide & Guided Analysis | [Dashboard Guide](link-to-dashboard-readme-or-guide) |
 
 ---
 
