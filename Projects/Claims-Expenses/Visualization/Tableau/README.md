@@ -19,7 +19,7 @@ The Tableau dashboard was designed with the following objectives:
 - Provide a **multi-currency and category breakdown**.
 - Enable stakeholders to **interact with filters** and explore insights by year, month, currency, and category.
 
-For a detailed explanation of the dashboard elements, user guidance, and possible insights, please refer to the **[Dashboard Guide & Guided Analysis](link-to-dashboard-readme-or-guide)**.
+For a detailed explanation of the dashboard elements, user guidance, and possible insights, please refer to the **[Dashboard Guide & Guided Analysis](https://drive.google.com/file/d/1M4xOR2QG_setGvdRsG21IUG2ij_gIxrA/view?usp=sharing)**.
 
 ---
 
@@ -46,9 +46,9 @@ After reviewing this dashboard:
 
 | Step | Description | Link |
 |------|-------------|------|
-| Step 1 | Expense Claims Automation with Python (Google Colab demo) | [Step 1 README & Colab](link-to-step-1-readme) |
+| Step 1 | Expense Claims Automation with Python (Google Colab demo) | [Step 1 README & Colab](https://github.com/MeryemCiftciAly/my-python-journal/tree/main/Projects/Claims-Expenses) |
 | Step 2 | Tableau Dashboard – Expense Claims Visualization | Current Repository / README |
-| Step 2a | Tableau Dashboard Guide & Guided Analysis | [Dashboard Guide](link-to-dashboard-readme-or-guide) |
+| Step 2a | Tableau Dashboard Guide & Guided Analysis | [Dashboard Guide] | [(https://drive.google.com/file/d/1M4xOR2QG_setGvdRsG21IUG2ij_gIxrA/view?usp=sharing) |
 
 ---
 
