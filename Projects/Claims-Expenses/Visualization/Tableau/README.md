@@ -1,6 +1,6 @@
 # Expense Claims Visualization – Step 2 Tableau Dashboard
 
-## Go directly to Tableau Dashboard: [Dashboard link] (https://public.tableau.com/app/profile/meryem.ciftci/viz/ExpenseClaimsSpendingAnalysis/ExpenseClaimsDashboard)
+## Go directly to Tableau Dashboard: [Dashboard link](https://public.tableau.com/app/profile/meryem.ciftci/viz/ExpenseClaimsSpendingAnalysis/ExpenseClaimsDashboard)
 
 ## Introduction
 
@@ -50,7 +50,7 @@ After reviewing this dashboard:
 |------|-------------|------|
 | Step 1 | Expense Claims Automation with Python (Google Colab demo) | [Step 1 README & Colab](https://github.com/MeryemCiftciAly/my-python-journal/tree/main/Projects/Claims-Expenses) |
 | Step 2 | Tableau Dashboard – Expense Claims Visualization | Current Repository / README |
-| Step 2a | Tableau Dashboard Guide & Guided Analysis | [Dashboard Guide] | (https://drive.google.com/file/d/1M4xOR2QG_setGvdRsG21IUG2ij_gIxrA/view?usp=sharing) |
+| Step 2a | Tableau Dashboard Guide & Guided Analysis | [Dashboard Guide](https://drive.google.com/file/d/1M4xOR2QG_setGvdRsG21IUG2ij_gIxrA/view?usp=sharing) |
 
 ---
 
