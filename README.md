@@ -38,24 +38,6 @@ My Python learning focuses on tools and skills relevant to real-world data roles
 - Working with files and user input
 - Preparing for eventual use with SQL, APIs, Power BI/Tableau, and cloud data tools
 
-## 🧭 Follow Along
-
-You can follow my full learning roadmap, reflections, and progress on my public Notion journal:
-
-📓 [My Python Journal on Notion](https://glaze-language-b5c.notion.site/My-Python-Journal-21bf1c8a8c5d80008401d8294184e6be)
-
-Explore my broader portfolio and other tools I use here:
-
-🌐 [My Data Work Samples (Power BI, SQL, Tableau, Excel)] @ (https://meryemciftcialy.github.io/work_sample/)
-
-## 🙏 Acknowledgments
-
-A special thanks to **Baraa Khatib-Salkini** for creating the roadmap template and inspirational videos that makes you enjoy wanting to learn about data.
-
-All About Baraa #NominateBaraa
-
-[📺 YouTube](http://bit.ly/3GiCVUE) | [🎓 Udemy Courses](https://www.udemy.com/user/baraa-khatib-salkini-2/) | [💼 LinkedIn](https://www.linkedin.com/in/baraa-khatib-salkini/) | [📰 Newsletter](https://bit.ly/BaraaNewsletter)
-
 ## 🚀 Stay Tuned
 
 This is just the beginning — I’ll be updating this journal regularly with new challenges, code samples, and reflections from my journey.
